@@ -1,6 +1,6 @@
 name: 'Issues Action'
 description: 'A GitHub Action that easily helps you automatically manage issues'
-author: 'Fentaniao'
+author: 'ruiyangzhou01'
 
 branding:
   icon: 'message-square'
